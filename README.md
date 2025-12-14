@@ -13,6 +13,7 @@ Part 5 covers softmax-based token averaging with masking, the negative infinity 
 <br>
 
 ## Part 4 [HERE](https://github.com/mytechnotalent/HackingGPT-4)
+## Part 6 [HERE](https://github.com/mytechnotalent/HackingGPT-6)
 
 <br><br>
 
