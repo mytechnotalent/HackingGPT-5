@@ -1,9 +1,20 @@
+![image](https://github.com/mytechnotalent/HackingGPT-5/blob/main/HackingGPT.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # HackingGPT
 ## Part 5
 Part 5 covers softmax-based token averaging with masking, the negative infinity trick for masking future positions, understanding how e^(-inf) = 0 enables causal attention, and comparing softmax weights to manual normalization.
 
 #### Author: [Kevin Thomas](mailto:ket189@pitt.edu)
 
+<br>
+
+## Part 4 [HERE](https://github.com/mytechnotalent/HackingGPT-4)
+
+<br><br>
 
 ```python
 import torch
